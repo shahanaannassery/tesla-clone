@@ -1,0 +1,545 @@
+.row-header{
+    background-color:rgb(240, 236, 236);
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    z-index: 1;
+    top: 0%;
+    margin-top:0%;
+    padding:10px;
+    text-decoration:500;
+    position:sticky;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.offer-container{
+    margin-top:8px;
+    font-size: 14px;
+    font-style: normal;
+    font-style: inherit;
+   
+    font-weight: 500;
+    position: sticky;
+
+}
+.logo{
+    width: 250px;
+    height: 60px;
+    margin-left: 28px;
+    position: sticky;
+    margin-top: 20px;
+}
+
+
+
+.nav{
+    text-align: center;
+    margin-top: -69px;
+    font-size: 14px;
+    font-style: normal;
+    font-style: inherit;
+    text-decoration: solid;
+    font-weight: 600;
+    position: sticky;
+    
+    
+    }
+    .row{
+    margin-left: 906px;
+    margin-right: auto;
+    padding-left: 858px;
+    margin-top: -16px;
+    font-size: 22px;
+    color: black;
+    position: sticky;
+
+    }
+    .home{
+    width: 100%;
+    height: 1000px;
+    margin-top:-57px;
+
+   
+
+    }
+    .container{
+        width: 1642px;
+        
+        text-align: center;
+    
+            
+    }
+    .text-head{
+        color: white;
+        font-size: 55px;
+        font-weight: 600;
+        text-align: center;
+       
+
+    }
+    
+    .image-button{
+        
+            position: absolute;
+            padding: 10px 20px;
+            background-color: rgba(0, 0, 0, 0.5); 
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            transform: translate(50px,10px);
+    
+   
+           
+    }
+    .button1{
+        top: 223px;
+        left: 625px;
+        background-color: white;
+        color: black;
+        font-size: 15px;
+        border-radius: 2px;
+        padding: 10px 94px;
+
+    
+    }
+    .button2{
+        top: 223px;
+        left: 913px;
+        background-color: white;
+        color: black;
+        font-size: 15px;
+        border-radius: 2px;
+        padding: 10px 94px;
+    }
+    .second-image{
+        width: 100%;
+    height: 1000px;
+    margin-top: 813px;
+    
+}
+.thired-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 754px;
+}
+.forth-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 753px;
+}
+.fifth-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 728px;
+}
+.sixth-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 750px;
+}
+.seventh-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: -117px;
+}
+.eight-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 782px;
+}
+.nineth-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 782px;
+}
+.tenth-image{
+    width: 100%;
+    height: 1000px;
+    margin-top: 818px;
+}
+
+.first-video{
+    width: 120rem;
+    margin-top: 820px;
+}
+
+
+.text-available{
+    text-align: center;
+    font-size: 33px;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    text-decoration-thickness: 1px;
+    color: white;
+}
+.text-price{
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+    color: white;
+    
+}
+.secondimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.secondbutton1{
+top: 1952px;
+left: 625px;
+background-color: #3e6ae1;
+color: white;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+
+
+}
+.secondbutton2{
+top: 1952px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+   
+
+
+.thiredimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.thiredbutton1{
+top: 2951px;
+left: 625px;
+background-color: #3e6ae1;
+color: white;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+
+
+}
+.thiredbutton2{
+top: 2951px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+
+.fourthimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.fourthbutton1{
+top: 3952px;
+left: 625px;
+background-color: #3e6ae1;
+color: white;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+
+
+}
+.fourthbutton2{
+top: 3952px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+.cybertruck-logo{
+    background-color: transparent;
+    position: relative;
+    top: -56rem;
+    left: 800px;
+
+}
+
+.fifthimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.fifthbutton1{
+    top: 4952px;
+    left: 625px;
+    background-color: #3e6ae1;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 10px 97px;
+    
+
+
+}
+.fifthbutton2{
+top: 4952px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+
+
+.sixthimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.sixthbutton1{
+    top: 5944px;
+    left: 625px;
+    background-color: #1c1818e0;
+    color: white;
+    font-size: 13px;
+    border-radius: 2px;
+    padding: 13px 93px;
+    
+
+
+}
+.sixthbutton2{
+top: 5944px;
+left: 913px;
+background-color: #1c1818e0;
+color: white;
+font-size: 13px;
+border-radius: 2px;
+padding: 13px 89px;
+}
+.seventhimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.seventhbutton1{
+    top: 6949px;
+    left: 625px;
+    background-color: #3e6ae1;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 10px 97px;
+    
+
+
+}
+.seventhbutton2{
+top: 6949px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+.eightimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.eightbutton1{
+    top: 7949px;
+    left: 625px;
+    background-color: #3e6ae1;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 10px 97px;
+    
+
+
+}
+.eightbutton2{
+top: 7949px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+.ninethimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.ninethbutton1{
+    top: 8949px;
+    left: 625px;
+    background-color: #3e6ae1;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 10px 97px;
+    
+
+
+}
+.ninethbutton2{
+top: 8949px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+
+.tenthimage-button{
+        
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform: translate(50px,10px);
+
+
+   
+}
+.tenthbutton1{
+    top: 9949px;
+    left: 625px;
+    background-color: #3e6ae1;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 10px 97px;
+    
+
+
+}
+.tenthbutton2{
+top: 9949px;
+left: 913px;
+background-color: white;
+color: black;
+font-size: 15px;
+border-radius: 3px;
+padding: 10px 97px;
+}
+
+
+
+
+footer {
+    
+    color: black;
+    padding: 60px 40px;
+    width: 100%;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+    margin-top: 250px;
+    font-size: 13px;
+}
+
+.linkicons{
+    margin-top: 85px;
+    font-size: 12px;
+    
+
+}
